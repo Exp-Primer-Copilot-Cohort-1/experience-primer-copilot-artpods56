@@ -1,4 +1,3 @@
-//define a function that will add two numbers
-function add(a, b) {
-    return a + b;
+function calculateNumbers(var1, var2) {
+console.log(var1 + var2);
 }
